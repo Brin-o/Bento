@@ -1,6 +1,6 @@
     
 <div align="center">
-<h1>Bento: 🍱 A Clean and Simple Startpage</h1>
+<h1>Brin's Bento: 🍱 My fork of Bento Start page</h1>
 </div>
 
 ![](https://github.com/MiguelRAvila/Bento/blob/master/assets/preview.png)
